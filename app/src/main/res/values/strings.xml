@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TopNews</string>
+
+    <string-array name="title_news">
+        <item>news1</item>
+        <item>news2</item>
+        <item>news3</item>
+        <item>news4</item>
+        <item>news5</item>
+        <item>news6</item>
+        <item>news7</item>
+    </string-array>
+
+
+    <string-array name="detail_news">
+        <item>news1</item>
+        <item>news2</item>
+        <item>news3</item>
+        <item>news4</item>
+        <item>news5</item>
+        <item>news6</item>
+        <item>news7</item>
+    </string-array>
+
+
+</resources>
